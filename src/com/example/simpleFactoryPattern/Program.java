@@ -1,4 +1,4 @@
-package com.sample.simpleFactoryPattern;
+package com.example.simpleFactoryPattern;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.sample.simpleFactoryPattern;
+package com.example.simpleFactoryPattern;
 
 /**
  * 乘法运算类
