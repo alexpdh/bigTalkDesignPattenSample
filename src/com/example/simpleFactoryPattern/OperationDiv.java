@@ -1,7 +1,7 @@
 package com.example.simpleFactoryPattern;
 
 /**
- * 出发运算类
+ * 除法运算类
  *
  * @author pengdh
  * @date: 2017-03-15 23:30
