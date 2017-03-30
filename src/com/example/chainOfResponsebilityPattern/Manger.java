@@ -1,4 +1,4 @@
-package com.example.chainOfResponsebility;
+package com.example.chainOfResponsebilityPattern;
 
 /**
  * 责任链模式：管理者类

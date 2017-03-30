@@ -1,4 +1,4 @@
-package com.example.chainOfResponsebility;
+package com.example.chainOfResponsebilityPattern;
 
 /**
  * 请求类
