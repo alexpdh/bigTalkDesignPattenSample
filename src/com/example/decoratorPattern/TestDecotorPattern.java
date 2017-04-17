@@ -18,6 +18,6 @@ public class TestDecotorPattern {
         ConcreteComponent c = new ConcreteComponent();
         ConcreteDecotorA d1 = new ConcreteDecotorA(c);
         ConcreteDecotorB d2 = new ConcreteDecotorB(d1);
-        System.out.println(d2);
+        d2.operation();
     }
 }
