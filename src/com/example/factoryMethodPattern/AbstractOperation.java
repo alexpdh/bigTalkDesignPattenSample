@@ -1,4 +1,4 @@
-package com.example.FactoryMethodPattern;
+package com.example.factoryMethodPattern;
 
 /**
  * 工厂方法模式：运算工厂抽象类 主要目的是将各个计算类要用的变量写在这里，避免每个计算实现类都写一个

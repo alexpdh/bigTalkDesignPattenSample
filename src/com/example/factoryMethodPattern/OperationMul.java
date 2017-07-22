@@ -1,4 +1,4 @@
-package com.example.FactoryMethodPattern;
+package com.example.factoryMethodPattern;
 
 /**
  * 工厂方法模式：乘法计算类
