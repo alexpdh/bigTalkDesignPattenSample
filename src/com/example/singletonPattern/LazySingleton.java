@@ -22,7 +22,7 @@ public class LazySingleton {
   /**
    * 静态工厂方法，获取全局唯一实例
    */
-  private static LazySingleton getInstance() {
+  public static LazySingleton getInstance() {
     Lock lock = new ReentrantLock();
     lock.lock();
     try {

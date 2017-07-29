@@ -22,7 +22,7 @@ public class DoubleCheckSingleton {
   /**
    * 静态工厂方法，获取全局唯一实例
    */
-  private static DoubleCheckSingleton getInstance() {
+  public static DoubleCheckSingleton getInstance() {
     // 先检查实例是否存在，如果不存在才进入下面的同步块
     if (instance == null) {
       // 加锁，线程安全的创建实例

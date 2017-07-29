@@ -15,7 +15,7 @@ public enum SingletonEnum {
   /**
    * 单例可以有自己的操作
    */
-  private void singletonOperation() {
+  public void singletonOperation() {
     // 功能实现
   }
 }

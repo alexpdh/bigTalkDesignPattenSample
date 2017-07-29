@@ -29,7 +29,7 @@ public class Singleton {
   /**
    * 静态工厂方法，获取全局唯一实例
    */
-  private static Singleton getInstance() {
+  public static Singleton getInstance() {
     return SingletonHolder.instance;
   }
 }
