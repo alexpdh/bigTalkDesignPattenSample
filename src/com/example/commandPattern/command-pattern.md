@@ -173,3 +173,4 @@ public class CommandPatternTest {
 #### 参考文献
 * <span style="color:red;font-size:14px;font-family:Microsoft YaHei;">大话设计模式</span>
 * [<span style="color:blue;font-size:14px;font-family:Microsoft YaHei;font-style:oblique;">http://www.cnblogs.com/java-my-life</span>](http://www.cnblogs.com/java-my-life)
+* [<span style="color:blue;font-size:14px;font-family:Microsoft YaHei;font-style:oblique;">源码地址：https://github.com/alexpdh/bigTalkDesignPattenSample</span>](http://www.cnblogs.com/java-my-life)
