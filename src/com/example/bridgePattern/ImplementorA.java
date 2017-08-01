@@ -1,4 +1,4 @@
-package com.example.bridge;
+package com.example.bridgePattern;
 
 /**
  * 桥接模式：具体实现 A 类

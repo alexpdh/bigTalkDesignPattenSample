@@ -1,4 +1,4 @@
-package com.example.bridge;
+package com.example.bridgePattern;
 
 /**
  * 桥接模式：客户端测试类

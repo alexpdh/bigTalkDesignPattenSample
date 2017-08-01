@@ -1,4 +1,4 @@
-package com.example.bridge;
+package com.example.bridgePattern;
 
 /**
  * 桥接模式：被提炼的抽象化类
